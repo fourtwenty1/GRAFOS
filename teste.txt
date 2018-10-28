@@ -1,1 +1,1 @@
-teste para commit, add, push e status
+howtopush
